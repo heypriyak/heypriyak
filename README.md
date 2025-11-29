@@ -45,6 +45,14 @@ Git • GitHub • VS Code • Postman • Docker • WebSocket
 🏦 Bank Account System (C++, Qt, DB)
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PriyaKumari-IIIT&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170px" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaKumari-IIIT&theme=dark&hide_border=false&layout=compact" height="170px" alt="Top Languages" /> <img src="https://nirzak-streak-stats.vercel.app/?user=PriyaKumari-IIIT&theme=dark&hide_border=false" height="180px" alt="GitHub Streak" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PriyaKumari-IIIT&theme=github_dark" height="170px" alt="Repos per Language" /> </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaKumari-IIIT&theme=tokyonight&hide_border=false" />
+</p>
+
+
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PriyaKumari-IIIT&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </p>
 🔝 Top Contributed Repositories
