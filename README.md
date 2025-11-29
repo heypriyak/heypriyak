@@ -1,9 +1,9 @@
 
 
 
-🌟 Hi , I'm Priya Kumari
+                                    🌟 Hi , I'm Priya Kumari
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Python+%7C+Java+%7C+MERN+Stack;Always+Learning+New+Things!" /> </p>
-👩‍💻 About Me
+                                     👩‍💻 About Me
 
 Hello! I'm Priya Kumari, a passionate Software Developer currently pursuing B.Tech CSE at IIIT Manipur.
 I specialize in Java, Python, React.js, AI/ML, and Full-Stack Development, and I love building impactful, real-world applications.
@@ -14,8 +14,8 @@ I specialize in Java, Python, React.js, AI/ML, and Full-Stack Development, and I
 
 💻 Actively seeking internships in Backend Development, Full-Stack Development, or AI/ML
 
-🚀 Experience
-💼 Java Developer Intern — Vijay Software Solutions
+                                        🚀 Experience
+    💼 Java Developer Intern — Vijay Software Solutions
 
 Aug 2025 – Oct 2025 | Remote
 
@@ -27,7 +27,7 @@ Collaborated with 8-member cross-functional team, improving deployment success b
 
 Authored detailed technical documentation, improving developer onboarding by 40%
 
-💼 React.js Developer Intern — Celebal Technologies
+      💼 React.js Developer Intern — Celebal Technologies
 
 May 2025 – Aug 2025 | Remote
 
@@ -39,7 +39,7 @@ Implemented real-time WebSocket features, supporting 500+ active concurrent user
 
 Improved page load speed by 25% through performance optimization
 
-💼 AI/Data Analytics Intern — Edunet Foundation (AICTE)
+      💼 AI/Data Analytics Intern — Edunet Foundation (AICTE)
 
 Jan 2025 – Feb 2025 | Remote
 
@@ -48,9 +48,6 @@ Built a Crop Recommendation System using Random Forest with 89% accuracy
 Designed preprocessing pipeline using parallel computing, reducing processing time by 20%
 
 Worked with 50k+ agriculture records using Pandas, NumPy, and ML tools
-
-
-
 
 
 Priya__Resume_Software_engineer
