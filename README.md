@@ -1,6 +1,6 @@
 🌟 Hi, I'm Priya Kumari 👋
 
-💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer
+  💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Always+Learning+New+Things!" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heypriyak&style=for-the-badge&color=blue" /> </p>
 💡 About Me
@@ -8,7 +8,7 @@
 I am a Software Developer specializing in building full-stack applications, scalable backend systems, and AI-driven solutions.
 Currently pursuing B.Tech in CSE at IIIT Manipur, I enjoy exploring Java, MERN stack development, AI/ML, and real-world problem solving.
 
-🔹 Core Strengths
+  🔹 Core Strengths
 
 Full-Stack Web Development
 
@@ -20,7 +20,7 @@ REST APIs, WebSockets, Real-time systems
 
 Clean code • Optimized systems • Modern UI/UX logic
 
-🔹 Quick Info
+  🔹 Quick Info
 
 📍 New Delhi, India
 
@@ -28,7 +28,7 @@ Clean code • Optimized systems • Modern UI/UX logic
 
 🚀 Actively seeking: Backend | Full-Stack | AI/ML Internships
 
-🧩 Experience
+  🧩 Experience
 💼 Java Developer Intern — Vijay Software Solutions
 
 Aug 2025 – Oct 2025 | Remote
