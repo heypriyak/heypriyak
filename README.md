@@ -1,46 +1,56 @@
 
 
-## Priya Kumari — GitHub Profile
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Python+%7C+Java+%7C+MERN+Stack;Always+Learning+New+Things!"> </p>
+
+🌟 Hi , I'm Priya Kumari
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Python+%7C+Java+%7C+MERN+Stack;Always+Learning+New+Things!" /> </p>
 👩‍💻 About Me
 
-Hi! I'm Priya Kumari, a passionate Software Developer, currently pursuing B.Tech CSE at IIIT Manipur.
-I specialize in Java, Python, React.js, AI/ML, and Full-Stack Development, and love building real-world impactful solutions.
+Hello! I'm Priya Kumari, a passionate Software Developer currently pursuing B.Tech CSE at IIIT Manipur.
+I specialize in Java, Python, React.js, AI/ML, and Full-Stack Development, and I love building impactful, real-world applications.
 
 📍 New Delhi, India
+
 🎓 CGPA: 7.8
-💻 Actively looking for Software Development Internships (Backend / Full-Stack / AI)
+
+💻 Actively seeking internships in Backend Development, Full-Stack Development, or AI/ML
 
 🚀 Experience
-💼 Java Developer Intern — Vijay Software Solutions (Aug 2025 – Oct 2025)
+💼 Java Developer Intern — Vijay Software Solutions
 
-Developed & maintained 5+ Java applications
+Aug 2025 – Oct 2025 | Remote
 
-Delivered 12+ features & fixed 20+ critical bugs
+Engineered and maintained 5+ Java applications
 
-Improved deployment accuracy by 30%
+Delivered 12+ new features and resolved 20+ critical bugs
 
-Wrote documentation improving onboarding by 40%
+Collaborated with 8-member cross-functional team, improving deployment success by 30%
+
+Authored detailed technical documentation, improving developer onboarding by 40%
+
+💼 React.js Developer Intern — Celebal Technologies
+
+May 2025 – Aug 2025 | Remote
+
+Built 8+ responsive React applications with Redux and REST APIs
+
+Optimized data fetching & state management, reducing API latency by 35%
+
+Implemented real-time WebSocket features, supporting 500+ active concurrent users
+
+Improved page load speed by 25% through performance optimization
+
+💼 AI/Data Analytics Intern — Edunet Foundation (AICTE)
+
+Jan 2025 – Feb 2025 | Remote
+
+Built a Crop Recommendation System using Random Forest with 89% accuracy
+
+Designed preprocessing pipeline using parallel computing, reducing processing time by 20%
+
+Worked with 50k+ agriculture records using Pandas, NumPy, and ML tools
 
 
-Priya__Resume_Software_engineer
 
-💼 React.js Developer Intern — Celebal Technologies (May 2025 – Aug 2025)
-
-Built 8+ React apps with Redux + REST APIs
-
-Improved API response time by 35%
-
-Implemented WebSockets supporting 500+ concurrent users
-
-
-Priya__Resume_Software_engineer
-
-💼 AI/Data Analytics Intern — Edunet Foundation (Jan 2025 – Feb 2025)
-
-Built a Crop Recommendation System (89% accuracy)
-
-Improved preprocessing speed by 20% for 50k+ data points
 
 
 Priya__Resume_Software_engineer
