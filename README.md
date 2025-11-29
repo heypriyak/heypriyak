@@ -1,53 +1,68 @@
+🌟 Hi, I'm Priya Kumari 👋
+💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Always+Learning+New+Things!" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heypriyak&style=for-the-badge&color=blue" /> </p>
+💡 About Me
 
-🌟 Hi, I'm Priya Kumari
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Python+%7C+Java+%7C+MERN+Stack;Always+Learning+New+Things!" /> </p>
-👩‍💻 About Me
+I am a Software Developer specializing in building full-stack applications, scalable backend systems, and AI-driven solutions.
+Currently pursuing B.Tech in CSE at IIIT Manipur, I enjoy exploring Java, MERN stack development, AI/ML, and real-world problem solving.
 
-Hello! I'm Priya Kumari, a passionate Software Developer currently pursuing B.Tech (CSE) at IIIT Manipur.
-I specialize in Java, Python, React.js, AI/ML, and Full-Stack Development, and I love building impactful, real-world applications.
+🔹 Core Strengths
+
+Full-Stack Web Development
+
+Backend Engineering (Java + Node.js)
+
+Machine Learning & Data Analytics
+
+REST APIs, WebSockets, Real-time systems
+
+Clean code • Optimized systems • Modern UI/UX logic
+
+🔹 Quick Info
 
 📍 New Delhi, India
 
 🎓 CGPA: 7.8
 
-💻 Actively seeking internships in Backend Development, Full-Stack Development, or AI/ML
+🚀 Actively seeking: Backend | Full-Stack | AI/ML Internships
 
-🚀 Experience
+🧩 Experience
 💼 Java Developer Intern — Vijay Software Solutions
 
 Aug 2025 – Oct 2025 | Remote
 
 Engineered and maintained 5+ Java applications
 
-Delivered 12+ new features and resolved 20+ critical bugs
+Delivered 12+ features & fixed 20+ critical bugs
 
-Coordinated with an 8-member cross-functional team, improving deployment success by 30%
+Improved deployment reliability by 30% through optimized workflows
 
-Authored detailed documentation, improving developer onboarding by 40%
+Authored developer documentation, improving onboarding by 40%
 
 💼 React.js Developer Intern — Celebal Technologies
 
 May 2025 – Aug 2025 | Remote
 
-Built 8+ responsive React applications using Redux and REST APIs
+Developed 8+ responsive React applications with Redux + REST APIs
 
-Optimized data fetching & state management, cutting API latency by 35%
+Reduced API latency by 35% through optimized state management
 
-Implemented real-time WebSocket features, supporting 500+ active concurrent users
+Implemented live WebSocket features supporting 500+ concurrent users
 
-Improved page load speed by 25% through performance optimization
+Enhanced overall performance, improving page load speed by 25%
 
 💼 AI/Data Analytics Intern — Edunet Foundation (AICTE)
 
 Jan 2025 – Feb 2025 | Remote
 
-Developed a Crop Recommendation System using Random Forest with 89% accuracy
+Built a crop recommendation system achieving 89% accuracy
 
-Built a parallel preprocessing pipeline, reducing processing time by 20%
+Reduced processing time by 20% with optimized preprocessing pipeline
 
-Worked with 50k+ agriculture records using Pandas, NumPy, and ML tools
+Analyzed 50k+ data records using Python, Pandas, NumPy, ML models
 
-
+🔥 Tech Stack
 Priya__Resume_Software_engineer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priya-kumari-798b50282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjupriya004@gmail.com) 
