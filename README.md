@@ -49,7 +49,7 @@ Git • GitHub • VS Code • Postman • Docker • WebSocket
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaKumari-IIIT&theme=tokyonight&hide_border=false" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heypriyak)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 
