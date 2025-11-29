@@ -1,4 +1,5 @@
 🌟 Hi, I'm Priya Kumari 👋
+
 💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Always+Learning+New+Things!" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heypriyak&style=for-the-badge&color=blue" /> </p>
