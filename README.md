@@ -1,24 +1,23 @@
- 🌟 Hi, I'm Priya Kumari 👋
-
-  💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Always+Learning+New+Things!" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=heypriyak&style=for-the-badge&color=blue" /> </p>
+ <h1 align="center">🌟 Hi, I'm Priya Kumari 👋</h1>
+<h3 align="center">💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Always+Learning+New+Things!" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=heypriyak&label=Profile%20Views&color=blue&style=for-the-badge" /> </p>
 💡 About Me
 
 I am a Software Developer specializing in building full-stack applications, scalable backend systems, and AI-driven solutions.
-Currently pursuing B.Tech in CSE at IIIT Manipur, I enjoy exploring Java, MERN stack development, AI/ML, and real-world problem solving.
+Currently pursuing B.Tech CSE at IIIT Manipur, I love working with Java, MERN Stack, Python, and Machine Learning, and solving real-world engineering challenges.
 
-  🔹 Core Strengths
+I focus on writing clean code, building optimized systems, and creating impactful digital experiences.
+
+🔹 Core Skills
 
 Full-Stack Web Development
 
-Backend Engineering (Java + Node.js)
+Backend Engineering (Java, Node.js, Express.js)
 
 Machine Learning & Data Analytics
 
-REST APIs, WebSockets, Real-time systems
+REST APIs, WebSockets & Real-time Systems
 
-Clean code • Optimized systems • Modern UI/UX logic
+UI/UX Logic • Clean Architecture • Performance Optimization
 
   🔹 Quick Info
 
@@ -26,18 +25,55 @@ Clean code • Optimized systems • Modern UI/UX logic
 
 🎓 CGPA: 7.8
 
-🚀 Actively seeking: Backend | Full-Stack | AI/ML Internships
+🚀 Actively seeking: Backend • Full-Stack • AI/ML Internships
 
-  🧩 Experience
+🔥 Tech Stack
+🌐 Frontend
+
+React.js, HTML5, CSS3, JavaScript, Tailwind, Bootstrap
+
+Component-Based UI • Responsive Web Design
+
+⚙️ Backend & APIs
+
+Node.js, Express.js
+
+Java (Core + OOP)
+
+REST APIs • WebSockets • Authentication • Middleware
+
+💾 Databases
+
+MongoDB, MySQL, SQLite
+
+🤖 AI / ML
+
+Python, Pandas, NumPy, Scikit-learn
+
+Classification • NLP • Feature Engineering • AutoML
+
+🛠 Tools
+
+Git & GitHub
+
+Docker
+
+Postman
+
+VS Code
+
+Jira / Agile
+
+💼 Experience
 💼 Java Developer Intern — Vijay Software Solutions
 
 Aug 2025 – Oct 2025 | Remote
 
 Engineered and maintained 5+ Java applications
 
-Delivered 12+ features & fixed 20+ critical bugs
+Delivered 12+ new features and resolved 20+ critical bugs
 
-Improved deployment reliability by 30% through optimized workflows
+Improved deployment reliability by 30% with workflow optimizations
 
 Authored developer documentation, improving onboarding by 40%
 
@@ -45,13 +81,13 @@ Authored developer documentation, improving onboarding by 40%
 
 May 2025 – Aug 2025 | Remote
 
-Developed 8+ responsive React applications with Redux + REST APIs
+Developed 8+ responsive React applications with Redux & REST APIs
 
-Reduced API latency by 35% through optimized state management
+Reduced API latency by 35% via state management improvements
 
-Implemented live WebSocket features supporting 500+ concurrent users
+Implemented real-time WebSocket features supporting 500+ users
 
-Enhanced overall performance, improving page load speed by 25%
+Improved application performance & loading speed by 25%
 
 💼 AI/Data Analytics Intern — Edunet Foundation (AICTE)
 
@@ -59,9 +95,9 @@ Jan 2025 – Feb 2025 | Remote
 
 Built a crop recommendation system achieving 89% accuracy
 
-Reduced processing time by 20% with optimized preprocessing pipeline
+Reduced data processing time by 20% using parallel preprocessing
 
-Analyzed 50k+ data records using Python, Pandas, NumPy, ML models
+Analyzed 50k+ agriculture data records with Pandas, NumPy, ML models
 
 🔥 Tech Stack
 Priya__Resume_Software_engineer
