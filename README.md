@@ -1,103 +1,85 @@
- <h1 align="center">🌟 Hi, I'm Priya Kumari 👋</h1>
-<h3 align="center">💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E0FF&center=true&vCenter=true&width=600&lines=Java+Developer+Intern;React.js+Developer+Intern;AI+%26+Data+Analytics+Intern;Full-Stack+Developer;Always+Learning+New+Things!" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=heypriyak&label=Profile%20Views&color=blue&style=for-the-badge" /> </p>
-💡 About Me
+ <h1 align="center">Hi, I'm Priya Kumari 👋</h1>
+<h3 align="center">💻 Python | Java | MERN Stack | AI/ML | Full-Stack Developer | CSE Undergraduate, IIIT Manipur (2026)</h3>
 
-I am a Software Developer specializing in building full-stack applications, scalable backend systems, and AI-driven solutions.
-Currently pursuing B.Tech CSE at IIIT Manipur, I love working with Java, MERN Stack, Python, and Machine Learning, and solving real-world engineering challenges.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryanjha597&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/aryanjha597?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-I focus on writing clean code, building optimized systems, and creating impactful digital experiences.
+---
 
-🔹 Core Skills
+## 💡 About Me
+I am a **Full-Stack Developer** & **Software Engineer** specializing in building scalable **web applications**, **robust backend systems**, and AI-driven solutions using Java, MERN Stack, and Python.
+My experience spans enterprise-grade **Java development**, **React-based web applications**, and **AI/ML-driven analytics**, with a strong focus on clean architecture, performance optimization, and real-time systems.
 
-Full-Stack Web Development
+**Core Skills:**  
+Full-Stack Web Development · Java · Python · React.js · Node.js · Express.js · MongoDB · MySQL · REST APIs · WebSockets · Machine Learning · Data Analytics · Git · Docker · Pandas · NumPy
 
-Backend Engineering (Java, Node.js, Express.js)
+Passionate about **problem-solving**, system optimization, and **building impactful digital products**, I aim to bring efficiency, reliability, and innovation to every project I contribute to.
 
-Machine Learning & Data Analytics
+---
 
-REST APIs, WebSockets & Real-time Systems
+## 🔥 Tech Stack
 
-UI/UX Logic • Clean Architecture • Performance Optimization
+### Frontend
 
-  🔹 Quick Info
+- **React.js, JavaScript, HTML5, CSS3** – Modern, component-based UI
 
-📍 New Delhi, India
+- **Tailwind CSS, Bootstrap** – Clean, responsive design frameworks
 
-🎓 CGPA: 7.8
+## ⚙️ Backend & APIs
 
-🚀 Actively seeking: Backend • Full-Stack • AI/ML Internships
+- **Node.js, Express.js** – Scalable server-side development
 
-🔥 Tech Stack
-🌐 Frontend
+- **Java (Core + OOP)** – Strong backend logic and enterprise-level structure
 
-React.js, HTML5, CSS3, JavaScript, Tailwind, Bootstrap
+- **REST APIs & WebSockets** – Real-time communication, secure integrations
 
-Component-Based UI • Responsive Web Design
+- **Authentication** · Middleware · API Optimization
 
-⚙️ Backend & APIs
+ ## 💾 Databases
 
-Node.js, Express.js
+- **MongoDB** – NoSQL storage for dynamic applications
 
-Java (Core + OOP)
+- **MySQL, SQLite** – Relational database systems
 
-REST APIs • WebSockets • Authentication • Middleware
+ ## 🤖 AI / ML
 
-💾 Databases
+-Python, Pandas, NumPy, Scikit-learn
 
-MongoDB, MySQL, SQLite
+- Classification · NLP · Feature Engineering · Model Evaluation
 
-🤖 AI / ML
+---
 
-Python, Pandas, NumPy, Scikit-learn
+## 💼 Work Highlights
 
-Classification • NLP • Feature Engineering • AutoML
+**💡 Java Developer Intern — Vijay Software Solutions (Aug 2025 – Oct 2025)**  
+- Engineered and maintained 5+ Java applications
 
-🛠 Tools
+- Delivered 12+ features and resolved 20+ critical bugs
 
-Git & GitHub
+- Improved deployment reliability by 30%
 
-Docker
+- Authored technical documentation improving 
 
-Postman
+**💡 React.js Developer Intern — Celebal Technologies (May 2025 – Aug 2025)**  
+-  Developed 8+ responsive React applications with Redux & REST APIs
 
-VS Code
+- Reduced API latency by 35% through better state management
 
-Jira / Agile
+- Built real-time WebSocket features supporting 500+ concurrent users
 
-💼 Experience
-💼 Java Developer Intern — Vijay Software Solutions
+- Improved page load performance by 25%
 
-Aug 2025 – Oct 2025 | Remote
+---
 
-Engineered and maintained 5+ Java applications
+## 🎯 What I Do
+- **End-to-End App Development** – Frontend + Backend + Databases  
+- **Performance Optimization** – Faster systems, reduced load times 
+- **AI/ML Implementations** – Automated analysis & predictive models  
+- **Clean Architecture** – Maintainable & high-quality codebases  
 
-Delivered 12+ new features and resolved 20+ critical bugs
-
-Improved deployment reliability by 30% with workflow optimizations
-
-Authored developer documentation, improving onboarding by 40%
-
-💼 React.js Developer Intern — Celebal Technologies
-
-May 2025 – Aug 2025 | Remote
-
-Developed 8+ responsive React applications with Redux & REST APIs
-
-Reduced API latency by 35% via state management improvements
-
-Implemented real-time WebSocket features supporting 500+ users
-
-Improved application performance & loading speed by 25%
-
-💼 AI/Data Analytics Intern — Edunet Foundation (AICTE)
-
-Jan 2025 – Feb 2025 | Remote
-
-Built a crop recommendation system achieving 89% accuracy
-
-Reduced data processing time by 20% using parallel preprocessing
-
-Analyzed 50k+ agriculture data records with Pandas, NumPy, ML models
+---
 
 🔥 Tech Stack
 Priya__Resume_Software_engineer
